@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>913016876917-k94dmpfacob0lccrugti3n2bsbl9mciv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.913016876917-k94dmpfacob0lccrugti3n2bsbl9mciv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>913016876917-27nuvkk19g90058fp9gc43k215e25bc5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDo36v-DiLX3GhKn3jhqiaYFvdQMjIfAY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>913016876917</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nova.messenger</string>
+	<key>PROJECT_ID</key>
+	<string>novamessenger-61eab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>novamessenger-61eab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:913016876917:ios:643f4c07c0053bd426ed3c</string>
+</dict>
+</plist>

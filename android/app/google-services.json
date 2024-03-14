@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "913016876917",
+    "project_id": "novamessenger-61eab",
+    "storage_bucket": "novamessenger-61eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913016876917:android:19faaae61da4cbdc26ed3c",
+        "android_client_info": {
+          "package_name": "com.novamesseneger.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913016876917-27nuvkk19g90058fp9gc43k215e25bc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novamesseneger.chat",
+            "certificate_hash": "9108409427f1ce5b5a881de74fafd521f551a914"
+          }
+        },
+        {
+          "client_id": "913016876917-5l1jp7fdkejcfjgpj958q6difrj3dmbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novamesseneger.chat",
+            "certificate_hash": "f184f8025b46a2b2c9200c5d1cf7cd1cad82a1d9"
+          }
+        },
+        {
+          "client_id": "913016876917-j48lsunnf2v1smfjrsqk4lbbke2r970q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novamesseneger.chat",
+            "certificate_hash": "510c0efc47ace2932ef0e761b33ee3aafc4dc58e"
+          }
+        },
+        {
+          "client_id": "913016876917-pnv42uve0tfsor9iudq69s14pmcve5p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novamesseneger.chat",
+            "certificate_hash": "ed65b169f9e9416d455e0c7a40ba5c14688b28ec"
+          }
+        },
+        {
+          "client_id": "913016876917-oadkavtrnn0rjamjcpe3prbmvopbgko0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHaAqyD0YCqPy5C7JvM4XgpVHXlB_NOX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913016876917-oadkavtrnn0rjamjcpe3prbmvopbgko0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "913016876917-k94dmpfacob0lccrugti3n2bsbl9mciv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.novamesseneger.chat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913016876917:android:6274acb985fd9e8326ed3c",
+        "android_client_info": {
+          "package_name": "com.novamesseneger.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913016876917-39fm9hokmbo5obvtup80q826rihh6imj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novamesseneger.chat",
+            "certificate_hash": "ed65b169f9e9416d455e0c7a40ba5c14688b28ec"
+          }
+        },
+        {
+          "client_id": "913016876917-8gbh9i6l0kvf3ldgfk96ri740jpq4si7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novamesseneger.chat",
+            "certificate_hash": "510c0efc47ace2932ef0e761b33ee3aafc4dc58e"
+          }
+        },
+        {
+          "client_id": "913016876917-barhast3bvjnljmgtgugla7pdhkbps53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novamesseneger.chat",
+            "certificate_hash": "08f84b7beef59ec11ef33e7ce6ecfac069de974b"
+          }
+        },
+        {
+          "client_id": "913016876917-lcoi0h46vvidcbrk8r736m4q6le4blpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novamesseneger.chat",
+            "certificate_hash": "9108409427f1ce5b5a881de74fafd521f551a914"
+          }
+        },
+        {
+          "client_id": "913016876917-o8mlinloghtk6674fhv6oqj7phjlo22t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novamesseneger.chat",
+            "certificate_hash": "f184f8025b46a2b2c9200c5d1cf7cd1cad82a1d9"
+          }
+        },
+        {
+          "client_id": "913016876917-oadkavtrnn0rjamjcpe3prbmvopbgko0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHaAqyD0YCqPy5C7JvM4XgpVHXlB_NOX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913016876917-oadkavtrnn0rjamjcpe3prbmvopbgko0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "913016876917-k94dmpfacob0lccrugti3n2bsbl9mciv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.novamesseneger.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
